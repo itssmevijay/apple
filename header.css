@@ -1,0 +1,98 @@
+
+.header{
+  margin: 0;
+  height: 45px;
+  background-color: rgb(54, 54, 56);
+
+  display: flex;
+  justify-content: center;
+  
+  align-items: center;
+  padding-right: 80px;
+  
+  right: 0px;
+  left: 0px;
+  
+}
+
+.apple-icon{
+  width: 15px;
+}
+
+.text-1{
+  color: #ccccd2;
+  padding-left:40px ;
+  font-size: 12px;
+  cursor: pointer;
+  
+}
+
+.search{
+  width: 15px;
+  
+}
+
+.shopping{
+  width: 19px;
+}
+
+.header-2{
+  height: 55px;
+  
+  background-color:white;
+  opacity: 0.9;
+  z-index: 100;
+  
+  margin-top: 0px;
+  position: sticky;
+  top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right:100px;
+  
+  
+  
+}
+
+.text-2{
+   font-weight:bold;
+   font-size: 20px;
+   margin-right: 600px;
+   margin-left: 30px;
+   cursor: pointer;
+   
+}
+.text-2-3{
+ margin-left: 20px;
+ font-size: 13px;
+ font-weight: 400px;
+ color: rgb(0,0,0);
+ line-height: 22px;
+ opacity: 0.88;
+ white-space: nowrap;
+ cursor: pointer;
+}
+
+.text-2-button{
+  background-color: #0071e3;
+  color: white;
+  display:inline-block;
+  border-radius: 980px;
+  border-color: #0071e3;
+  border-style: solid;
+  padding-left: 11px;
+  padding-right: 11px;
+  padding-bottom: 4px;
+  padding-top: 4px;
+  cursor: pointer;
+}
+.text-2-button:hover{
+  opacity: 0.8;
+}
+
+.text-2-3:hover{
+   color: #0071e3;
+}
+
+
